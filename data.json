@@ -1,0 +1,46 @@
+{
+  "data":[ 
+    {
+      "day": "mon",
+      "amount": 17.45,
+      "color" : "blue",
+      "height": "25%"
+    },
+    {
+      "day": "tue",
+      "amount": 34.91,
+      "color" : "blue",
+      "height": "25%"
+    },
+    {
+      "day": "wed",
+      "amount": 52.36,
+      "color" : "blue",
+      "height": "25%"
+    },
+    {
+      "day": "thu",
+      "amount": 31.07,
+      "color" : "blue",
+      "height": "25%"
+    },
+    {
+      "day": "fri",
+      "amount": 23.39,
+      "color" : "blue",
+      "height": "25%"
+    },
+    {
+      "day": "sat",
+      "amount": 43.28,
+      "color" : "blue",
+      "height": "25%"
+    },
+    {
+      "day": "sun",
+      "amount": 25.48,
+      "color" : "blue",
+      "height": "25%"
+    }
+  ]
+}
